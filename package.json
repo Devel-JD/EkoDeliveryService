@@ -1,0 +1,29 @@
+{
+  "name": "ekodeliveryservice",
+  "version": "1.0.0",
+  "description": "Coding Challenge",
+  "main": "eds.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devel-JD/EkoDeliveryService.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Chea Sowattana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devel-JD/EkoDeliveryService/issues"
+  },
+  "homepage": "https://github.com/Devel-JD/EkoDeliveryService#readme"
+}
